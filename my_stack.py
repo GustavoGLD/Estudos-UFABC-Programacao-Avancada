@@ -2,11 +2,11 @@ from typing import Any, TypeVar, Optional
 
 T = TypeVar('T')
 
+
 class Node:
     def __init__(self, d: T):
         self.data = d
         self.next_node: Optional[T] = None
-
 
 
 class Stack:
