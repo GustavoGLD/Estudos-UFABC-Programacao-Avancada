@@ -11,6 +11,13 @@
 
 ---
 
+
+![datastructures-and-algorithms-1](https://github.com/user-attachments/assets/edd321a5-aef4-4d18-8904-7e3cbf244a67)
+
+
+---
+
+
 ## MCZA038-17 Prática Avançada de Programação A  
 
 **TPEI:** 0-4-0-4  
