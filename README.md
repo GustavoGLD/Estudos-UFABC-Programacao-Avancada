@@ -1,15 +1,14 @@
 - [x] stack
-- [x] queue
+- [x] linear queue
+- [ ] circular queue
+- [ ] priority queue
+- [ ] double-ended queue
 - [ ] linked list
 - [ ] graphs
 - [ ] trees
 - [ ] hash table
 - [ ] heap
 
-
-- [ ] circular queue
-- [ ] priority queue
-- [ ] double-ended queue
 ---
 
 ## MCZA038-17 Prática Avançada de Programação A  
