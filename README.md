@@ -13,6 +13,12 @@
 - [ ] heap
 
 ---
+Exercicios
+
+Queue: https://www.facom.ufu.br/~backes/wordpress/ListaED06-Pilhas.pdf
+
+
+---
 
 
 ![datastructures-and-algorithms-1](https://github.com/user-attachments/assets/edd321a5-aef4-4d18-8904-7e3cbf244a67)
