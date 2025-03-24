@@ -1,18 +1,3 @@
-- [x] stack
-- [x] linear queue
-- [ ] circular queue
-- [ ] priority queue
-- [ ] Priority Queue + Heap Binário
-- [ ] Priority Queue + Lista Ordenada
-- [ ] Priority Queue + Lista Não Ordenada
-- [ ] double-ended queue
-- [ ] linked list
-- [ ] graphs
-- [ ] trees
-- [ ] hash table
-- [ ] heap
-
----
 Exercicios
 
 Queue: https://www.facom.ufu.br/~backes/wordpress/ListaED06-Pilhas.pdf
