@@ -5,22 +5,21 @@ def binary_couting(n):
     binary = [bin(i)[2:].zfill(n) for i in range(2**n)]
     return binary
 
-def make_permutations(l: list[int]):
+def make_subsets(l: list[int]):
     binaries = binary_couting(len(l))
-    permutations = []
+    subsets = []
     for binary in binaries:
-        permutation = []
+        subset = []
         for index, bit in enumerate(binary):
             if bit == '1':
-                permutation.append(l[index])
+                subset.append(l[index])
 
-        #print(permutation)
-        permutations.append(permutation)
+        subsets.append(subset)
 
-    return permutations
+    return subsets
 
 if __name__ == "__main__":
     l = [1, 2, 3, 4]
-    permutations = make_permutations(l)
-    assert len(permutations) == 2**len(l)
-    print(permutations)
+    subsets = make_subsets(l)
+    assert len(subsets) == 2**len(l)
+    print(subsets)
